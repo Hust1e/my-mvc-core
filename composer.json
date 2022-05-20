@@ -3,7 +3,7 @@
     "description": "My pet mvc-prod",
     "autoload": {
         "psr-4": {
-            "Doppel\\PhpMvcCore\\": "src/"
+            "Doppel\\PhpMvcCore\\": "."
         }
     },
     "authors": [

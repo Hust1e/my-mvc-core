@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace Doppel\PhpMvcCore;
 
 abstract class UserModel extends DbModel
 {
