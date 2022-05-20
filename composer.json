@@ -1,6 +1,11 @@
 {
     "name": "doppel/php-mvc-core",
     "description": "My pet mvc-prod",
+    "autoload": {
+        "psr-4": {
+            "Doppel\\PhpMvcCore\\": "."
+        }
+    },
     "authors": [
         {
             "name": "Emil Safin",

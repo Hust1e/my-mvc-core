@@ -1,6 +1,6 @@
 <?php
-namespace app\core;
-use app\core\exception\NotFoundException;
+namespace Doppel\PhpMvcCore;
+use Doppel\PhpMvcCore\exception\NotFoundException;
 
 class Router
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace Doppel\PhpMvcCore\form;
 
-use app\core\Model;
+use Doppel\PhpMvcCore\Model;
 
 class Form
 {
