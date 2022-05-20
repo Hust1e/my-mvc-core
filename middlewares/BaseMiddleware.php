@@ -1,6 +1,6 @@
 <?php
 
-namespace Doppel\PhpMvcCore\middlewares;
+namespace app\core\middlewares;
 
 abstract class BaseMiddleware
 {

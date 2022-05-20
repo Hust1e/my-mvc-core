@@ -1,9 +1,9 @@
 <?php
 
-namespace Doppel\PhpMvcCore\middlewares;
+namespace app\core\middlewares;
 
-use Doppel\PhpMvcCore\Application;
-use Doppel\PhpMvcCore\exception\ForbiddenException;
+use app\core\Application;
+use app\core\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Doppel\PhpMvcCore;
+namespace app\core;
 
 abstract class Model
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Doppel\PhpMvcCore;
+namespace app\core;
 
-use Doppel\PhpMvcCore\middlewares\BaseMiddleware;
+use app\core\middlewares\BaseMiddleware;
 
 class Controller
 {

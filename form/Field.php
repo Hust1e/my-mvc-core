@@ -1,8 +1,8 @@
 <?php
 
-namespace Doppel\PhpMvcCore\form;
+namespace app\core\form;
 
-use Doppel\PhpMvcCore\Model;
+use app\core\Model;
 
 class Field
 {
